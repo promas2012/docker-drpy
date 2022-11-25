@@ -1,5 +1,5 @@
-"name": "docker-drpy",
-"version": "1.0.0",
+"name":"docker-drpy",
+"version":"1.0.0",
 "description": "",
 "scripts": {
 "build": "echo \"No build specified\" && exit 1",
